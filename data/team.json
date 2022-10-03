@@ -1,0 +1,14 @@
+{
+    "name": "Jaiden Loves Me",
+    "team": [{
+        "playerNumber": 7,
+        "playerName": "Jaiden Yung",
+        "playerStats": {
+            "kills": 0,
+            "assists": 0,
+            "blocks": 0,
+            "aces": 0,
+            "digs": 0
+        }
+    }]
+}

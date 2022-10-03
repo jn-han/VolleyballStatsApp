@@ -1,0 +1,27 @@
+{
+    "name": "My team",
+    "team": [
+        {
+            "playerNumber": 14,
+            "playerName": "Joshua Nguyen",
+            "playerStats": {
+                "kills": 0,
+                "assists": 0,
+                "blocks": 0,
+                "aces": 0,
+                "digs": 0
+            }
+        },
+        {
+            "playerNumber": 9,
+            "playerName": "Brandon Bae",
+            "playerStats": {
+                "kills": 0,
+                "assists": 0,
+                "blocks": 0,
+                "aces": 0,
+                "digs": 0
+            }
+        }
+    ]
+}
