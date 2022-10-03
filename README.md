@@ -1,6 +1,6 @@
 # Volleyball Statistics Tracker
 ### An application catered towards tracking the progression of volleyball players.
-### Created as a final school project to present Object Oriented Design Concepts
+### Created as a final school project to present Object Oriented Design Concepts.
 
 <br>
 
